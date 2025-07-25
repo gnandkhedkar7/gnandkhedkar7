@@ -1,4 +1,3 @@
-
 # Hello, I'm **Gauri Sunil Nandkhedkar** 👋
 
 ## 👩‍💻 **UI Developer | Frontend Engineer**  
@@ -7,44 +6,6 @@
 **Phone:** +49 17656129352  
 **GitHub:** [gnandkhedkar7](https://github.com/gnandkhedkar7)  
 **LinkedIn:** [Gauri Nandkhedkar](https://www.linkedin.com/in/gnandkhedkar7/)
-
----
-
-## 💼 **Work Experience**
-
-### **Barclays** (03/2022 – 05/2025)  
-**UI Developer**  
-- Developed and maintained responsive UI components using **React** and **Tailwind CSS**, improving load time by 30%.
-- Collaborated with **UX designers** to implement pixel-perfect designs and intuitive user flows for the bank's desktop application.
-- Worked in **Agile sprints** with backend developers and QA to ensure timely, high-quality, and functional UI delivery.
-- Implemented **accessibility best practices** (ARIA roles, keyboard navigation), contributing to **AA compliance** across flagship products.
-- Awarded **'Best-Performer'** (September 2024) and **'Code-Ninja'** (August 2022).
-
-### **Newfold Digital** (07/2021 – 03/2022)  
-**Web Solutions Specialist**  
-- Designed and maintained **marketing websites** using **WordPress**.
-- Integrated **Google Tag Manager**, email marketing tools, and analytics tracking for client websites.
-- Supported content teams with CMS configurations and **performance optimization**.
-- Gained foundational experience in **responsive web design**, **SEO**, and **user experience**.
-
----
-
-## 🎓 **Education**
-
-**Bachelor of Engineering in Information Technology**  
-Savitribai Phule Pune University (07/2017 – 04/2021)  
-- **SGPA**: 8.92/10  
-- Favorite subjects: **Database Management Systems**, **OOP**, **Data Structures and Algorithms**, **Operating Systems**.
-
-**Higher Secondary Certificate** (06/2016 – 02/2017)  
-Maharashtra State Board, India  
-- **Score**: 80.77%  
-- Favorite subjects: **Mathematics & Statistics**, **Physics**, **Electronics**.
-
-**Secondary School Certificate** (06/2014 – 03/2015)  
-Maharashtra State Board, India  
-- **Score**: 92.60%  
-- Favorite subjects: **Mathematics**, **Science and Technology**.
 
 ---
 
@@ -71,20 +32,32 @@ Maharashtra State Board, India
 
 ## 🌱 **About Me**
 
-I am a **versatile UI Developer** with over **3 years of experience**. My journey began as a **Web Solutions Specialist** and evolved into a **front-end engineering role**
+I am a **versatile UI Developer** with over **3 years of experience**. My journey began as a **Web Solutions Specialist** and evolved into a **front-end engineering role**. I am passionate about building **user-centric, responsive web applications** using **React**, **JavaScript**, and modern CSS frameworks. I collaborate well with cross-functional teams to deliver high-impact digital products and constantly strive to improve user experiences.
 
+---
 
-<!--
-**gnandkhedkar7/gnandkhedkar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 **GitHub Stats**
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnandkhedkar7&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnandkhedkar7&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 **Languages & Tools**
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=flat&logo=javascript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+- ![CSS3](https://img.shields.io/badge/CSS3-%233366CC.svg?style=flat&logo=css3&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8.svg?style=flat&logo=tailwind-css&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📬 **Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/gnandkhedkar7/)
+- [GitHub](https://github.com/gnandkhedkar7)
+- [Email](mailto:nandkhedkargauri99@gmail.com)
+- [Personal Website](https://my-portfolio-psi-ten-80.vercel.app/)
+
+---
